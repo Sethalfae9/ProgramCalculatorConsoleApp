@@ -1,0 +1,7 @@
+D:\Tugas pemrograman\PerogramCalculatorConsole\PerogramCalculatorConsole\bin\Debug\PerogramCalculatorConsole.exe.config
+D:\Tugas pemrograman\PerogramCalculatorConsole\PerogramCalculatorConsole\bin\Debug\PerogramCalculatorConsole.exe
+D:\Tugas pemrograman\PerogramCalculatorConsole\PerogramCalculatorConsole\bin\Debug\PerogramCalculatorConsole.pdb
+D:\Tugas pemrograman\PerogramCalculatorConsole\PerogramCalculatorConsole\obj\Debug\PerogramCalculatorConsole.csproj.AssemblyReference.cache
+D:\Tugas pemrograman\PerogramCalculatorConsole\PerogramCalculatorConsole\obj\Debug\PerogramCalculatorConsole.csproj.CoreCompileInputs.cache
+D:\Tugas pemrograman\PerogramCalculatorConsole\PerogramCalculatorConsole\obj\Debug\PerogramCalculatorConsole.exe
+D:\Tugas pemrograman\PerogramCalculatorConsole\PerogramCalculatorConsole\obj\Debug\PerogramCalculatorConsole.pdb
